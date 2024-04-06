@@ -19,6 +19,7 @@ Vue Material Admin | [litonarefin/electron-vue-admin](https://github.com/litonar
 Quasar Admin | [vuejsadmin/quasar-admin](https://github.com/vuejsadmin/quasar-admin) | [Demo](https://vuejsadmin.com/product/quasar-admin-app/) | _vue.js_
 Vue Paper Dashboard | [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) | [Demo](https://www.creative-tim.com/product/paper-dashboard) | _vuejs_
 Adminify | [wxs77577/adminify](https://github.com/topfullstack/adminify) | [Demo](#) | _vuejs_ _vuetify_ _material-design_
+Yummy Admin | [doroudi/yummyadmin](https://github.com/doroudi/yummyadmin) | [Demo](https://yummy-admin.netlify.app/) | _vuejs_ naiveui_ _vue.js3_
 
 
 
